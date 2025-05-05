@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "151c0d5c-8b70-45ea-bcbe-5cb035157b29",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-05T21:11:32.070Z",
   "created_by": "amtellez16",
   "title": "Latino USA Program 275, Week #30-98",
   "slug": "latino-usa-program-275-week-30-98",
-  "updated_at": "2025-05-05T21:11:32.070Z",
+  "updated_at": "2025-05-05T23:57:02.231Z",
   "updated_by": "amtellez16",
   "parent": "25effe79-aba7-446b-8e33-8e6bed1eba23",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "151c0d5c-8b70-45ea-bcbe-5cb035157b29"
   }
