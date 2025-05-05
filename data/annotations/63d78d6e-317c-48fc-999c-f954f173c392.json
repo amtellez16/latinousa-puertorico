@@ -1338,10 +1338,6 @@
           "category": "Speaker"
         },
         {
-          "category": "_uncategorized_",
-          "tag": ", Music"
-        },
-        {
           "tag": "Segment 1",
           "category": "Editorial Decisions"
         },
@@ -1351,6 +1347,10 @@
         },
         {
           "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Music",
           "category": "Editorial Decisions"
         }
       ],
