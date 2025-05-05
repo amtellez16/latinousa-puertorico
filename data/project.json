@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "amtellez16",
+    "is_private": false,
+    "title": "Latino USA's Coverage of Puerto Rico",
+    "description": "This project analyzes Latino USA's coverage of U.S. Occupation in Puerto Rico.",
+    "language": "en",
+    "slug": "latinousa-puertorico",
+    "creator": "amtellez16",
+    "authors": "Allysa Tellez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-05T20:53:24.652Z",
+    "updated_at": "2025-05-05T20:53:24.652Z"
   }
 }
