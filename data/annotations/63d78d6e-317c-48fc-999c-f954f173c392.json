@@ -1883,10 +1883,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Pedro J. Rossello"
-        },
-        {
           "tag": "Segment 1",
           "category": "Editorial Decisions"
         },
@@ -1913,6 +1909,10 @@
         {
           "tag": "Pro-Statehood",
           "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pedro J Rossello"
         }
       ],
       "uuid": "fed8006b-87e3-4d4b-b3f6-dcd366dfa677"
