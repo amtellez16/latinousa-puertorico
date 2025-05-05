@@ -2562,10 +2562,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Mirna Connolly"
-        },
-        {
           "tag": "Segment 1",
           "category": "Editorial Decisions"
         },
@@ -2604,6 +2600,10 @@
         {
           "tag": "Spanish",
           "category": "Interview Makeup"
+        },
+        {
+          "tag": "Myrna Connolly",
+          "category": "Speaker"
         }
       ],
       "uuid": "c656b5ac-e274-4054-b540-8c80c8586515"
