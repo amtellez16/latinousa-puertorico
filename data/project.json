@@ -744,10 +744,6 @@
           "category": "Topics"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Mirna Connolly"
-        },
-        {
           "category": "Speaker",
           "tag": "Pedro J Rossello"
         },
@@ -922,7 +918,7 @@
       ]
     },
     "created_at": "2025-05-05T20:53:24.652Z",
-    "updated_at": "2025-05-05T22:26:20.852Z",
+    "updated_at": "2025-05-05T22:26:38.214Z",
     "generate_pages_site": true
   },
   "annotations": {},
