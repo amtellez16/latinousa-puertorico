@@ -1,9 +1,28 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "image",
+      "url": "https://live.staticflickr.com/4796/38868870450_6582b8bddb_o.jpg",
+      "caption": "Puerto Rican flag in Old San Juan",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-05T20:53:24.674Z",
   "created_by": "amtellez16",
   "title": "Latino USA's Coverage of Puerto Rico",
-  "updated_at": "2025-05-05T23:48:38.309Z",
+  "updated_at": "2025-05-05T23:49:52.987Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
