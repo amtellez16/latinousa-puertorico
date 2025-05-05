@@ -2509,10 +2509,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Mirna Connolly"
-        },
-        {
           "tag": "Segment 1",
           "category": "Editorial Decisions"
         },
@@ -2543,6 +2539,10 @@
         {
           "tag": "Payment",
           "category": "Topics"
+        },
+        {
+          "tag": "Myrna Connolly",
+          "category": "Speaker"
         }
       ],
       "uuid": "dfa8e2a2-3bc0-4d00-ae0f-46b22c8ee35f"
