@@ -1,5 +1,7217 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ba4f06a0-0618-4256-b7fc-d114387d2159"
+    },
+    {
+      "start_time": 5,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Martin. This time on Latino USA, the Clinton administration says military training will continue on the Puerto Rican island of Vieques, and tensions rise in the wake of that announcement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "c9795759-ffe4-4132-938d-94ee65f0e504"
+    },
+    {
+      "start_time": 28,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people of Vieques are telling the President of the United States, no, go somewhere else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia-Passalacqua"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "530b30e6-9336-4a03-9278-da11fb0f95c6"
+    },
+    {
+      "start_time": 36,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, ten years after the US invasion of Panama, a visit to the center of that deadly confrontation and to one of Panama's poorest neighborhoods, El Chorillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "e0a0b9eb-8376-476a-b1e0-7ea2c1fbb58d"
+    },
+    {
+      "start_time": 46,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Standing here, you naturally see the fire come out of the plane, whoosh, badam\nbadam! All we could do was pray and hope that we didn't die."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "51518f0d-59b8-4bc9-ae9a-d6e51df94fef"
+    },
+    {
+      "start_time": 56,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and more on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "97aed7d2-ec4b-4737-a6a7-1a435a817eeb"
+    },
+    {
+      "start_time": 60,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this week, this is news from Latino USA. I'm David Alvarez. President Clinton has left open the possibility that the six-year-old Cuban refugee rescued at sea will be returned to Havana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuban Refugee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elian Gonzalez"
+        }
+      ],
+      "uuid": "6c2392ad-18f8-4bd9-9b75-faf15161e62c"
+    },
+    {
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Miami, Derek Revaron reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuban Refugee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elian Gonzalez"
+        }
+      ],
+      "uuid": "8f75fdd4-9bad-4265-989c-af5f80571614"
+    },
+    {
+      "start_time": 74,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The President said that he sympathizes with the father of little Elian Gonzalez, who is demanding that his son be returned to Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derek S Reveron"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Cuban Refugee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elian Gonzalez"
+        }
+      ],
+      "uuid": "9399b709-2273-4e23-bf49-2c446d8be2c6"
+    },
+    {
+      "start_time": 81,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Mr. Clinton said that federal officials should act in the boy's best interests. But he also said that federal regulations recognize the rights of parents outside the US in immigration proceedings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derek S Reveron"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Cuban Refugee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elian Gonzalez"
+        }
+      ],
+      "uuid": "ba35325b-0ac6-4e25-92b1-2501ed772e00"
+    },
+    {
+      "start_time": 94,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Immigration and Naturalization Service plans to interview the father to prove his paternity. In Miami, Cuban exiles accused Mr. Clinton of caving in to Castro, who is demanding the boy's return. If the INS decides to send him back, his relatives will go to federal court to seek a restraining order. For Latino USA, this is Derek Revaron in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derek S Reveron"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Cuban Refugee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elian Gonzalez"
+        }
+      ],
+      "uuid": "baf4d73a-2ed3-44b9-a6a7-f7fb992f24a4"
+    },
+    {
+      "start_time": 116,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Cuba, Fidel Castro has turned the case of six-year-old Elian Gonzalez into a nationalist crusade. There have been daily rallies outside the US interest section in Havana to demand his return. Tom Gibb reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Eilan Gonzalez",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "tag": "Havana",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "b71e4927-5358-43f1-9ce4-88a42eea96b4"
+    },
+    {
+      "start_time": 129,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fidel Castro seized on the case as a way of showing up the contradictions of US immigration policy towards Cuba. He has been holding out for Elian to be sent home unconditionally to set a precedent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tom Gibb",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Eilan Gonzalez",
+          "category": "Topics"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "db0f8da5-1a98-4463-9518-ba993082f73a"
+    },
+    {
+      "start_time": 141,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elian's father initially said he'd go to Miami if necessary to reclaim his son, but instead the state is handling the whole case. While most Cubans say the boy should be returned, they also believe both sides are playing politics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tom Gibb",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Eilan Gonzalez",
+          "category": "Topics"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Varying Perspectives",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Miami",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "9711da2c-9367-472b-8bae-e7942737f441"
+    },
+    {
+      "start_time": 156,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fidel Castro has, however, succeeded in applying pressure on Washington to start to comply with migration agreements signed between the two countries in 1994. These say any Cuban picked up at sea should be sent back. For Latino USA, I'm Tom Gibb in Havana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tom Gibb",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Eilan Gonzalez",
+          "category": "Topics"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "b096dc4d-c46d-45d5-bfd1-f27fb95bd38b"
+    },
+    {
+      "start_time": 173,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Puerto Rico, a federal jury has acquitted five Cuban exiles of charges they conspired to assassinate Fidel Castro in 1997. It was the first US trial in which anyone had been charged with trying to kill the Cuban leader. Daniel Garza reports from San Juan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Assassination Attempt",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "tag": "Trial",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "4e361f7a-fcfe-43fc-bd55-40c81c099362"
+    },
+    {
+      "start_time": 188,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The jury's verdict came on the second day of deliberations, dealing a blow to US prosecutors who claimed the defendants had conspired to kill Castro during a 1997 summit in Venezuela."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Garza",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Assassination Attempt",
+          "category": "Topics"
+        },
+        {
+          "tag": "Trial",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "tag": "Venezuela",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "4cf146df-ced2-4ae8-8fec-2fc0a58b19fc"
+    },
+    {
+      "start_time": 199,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three of the accused were on a yacht stopped by the US Coast Guard off Puerto Rico two years ago. Sniper rifles, ammunition, and night vision goggles were found on the vessel. Among those cleared of conspiracy charges was a board member of the influential Miami-based Cuban American National Foundation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Garza",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Assassination Attempt",
+          "category": "Topics"
+        },
+        {
+          "tag": "Trial",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "854896a8-905f-4fbe-8a40-bd3642e00e55"
+    },
+    {
+      "start_time": 217,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Defense lawyers insisted the men wanted to help members of Castro's entourage defect from the summit on Venezuela's Margarita Island. They argued the weapons were needed to defend themselves against Cuban security forces. If convicted, the men could have faced up to life in prison."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Garza",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Topics"
+        },
+        {
+          "tag": "Assassination Attempt",
+          "category": "Topics"
+        },
+        {
+          "tag": "Trial",
+          "category": "Topics"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Topics"
+        },
+        {
+          "tag": "Venezuela",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "011e5781-eda8-487a-b7ce-6adc194dcb12"
+    },
+    {
+      "start_time": 233,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Latino USA, I'm Daniel Garza in San Juan, Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Garza",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0d679f54-f3c6-490e-96f0-a5f08ba6bce2"
+    },
+    {
+      "start_time": 237,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "119a302a-54fb-4f85-b8d5-7fd34773ae73"
+    },
+    {
+      "start_time": 240,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Near the Mexican border city of Juarez, the FBI and Mexican federal police continue to excavate on four ranches where as many as 100 victims of the drug war may be buried. The search has helped focus attention on border disappearances, which have increased in recent years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "9062b347-4dcf-415a-873d-96c90b7628b7"
+    },
+    {
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From El Paso, Brenda De Anda has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "736b7b68-d5e0-45e7-8ebc-4240107f3cc2"
+    },
+    {
+      "start_time": 258,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Almost 200 people have vanished from the El Paso-Juarez area in the last six years, according to an association of relatives and friends of missing persons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brenda de Anda",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Paso",
+          "category": "Topics"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Disappearances",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "1b9c1c03-2e8a-4afe-a5c5-43dda9418bb3"
+    },
+    {
+      "start_time": 266,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jaime Hervella heads the El Paso-based group. He says they will not be satisfied until their loved ones are found."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brenda de Anda",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Paso",
+          "category": "Topics"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Disappearances",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "76bce63f-0ffa-405d-aad8-aa5f07c53158"
+    },
+    {
+      "start_time": 272,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In our heart, we hope, we pray, they be not found in these graves that have been dug at the present time. But our minds tell us that we better prepare those things that can identify human remains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaime Hervella",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Paso",
+          "category": "Topics"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Disappearances",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "f27495b4-be40-4d82-af97-535bbe4233c7"
+    },
+    {
+      "start_time": 289,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Families of the disappeared are giving photographs and medical records to the FBI. The agency says they don't know when the excavations might end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brenda de Anda",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Paso",
+          "category": "Topics"
+        },
+        {
+          "tag": "Juarez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        },
+        {
+          "tag": "Drug War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Disappearances",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "363db030-e7f7-49d0-ac35-9b333be2ff95"
+    },
+    {
+      "start_time": 297,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Latino USA, this is Brenda De Anda in El Paso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brenda de Anda",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "c5d206c0-a60a-45b9-9f0e-9ad5209837df"
+    },
+    {
+      "start_time": 301,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican government has put a hold on a refundable but unpopular tourist fee that went into effect early this month. From Texas Public Radio, Eric Roy reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "f6a8f0d1-7417-40d8-808b-2e1d11812cf6"
+    },
+    {
+      "start_time": 310,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the $400 to $800 vehicle deposit also kept non-Latinos away from Mexico, it was a personal matter for Mexican-Americans and Mexican citizens in the U.S."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Eric Roy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexcio"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Mexican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "499d888c-cd41-4246-9c2a-0841af8a2ac8"
+    },
+    {
+      "start_time": 319,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many decided against the traditional Christmas pilgrimage or started boycotting beer and food from Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Eric Roy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexcio"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Mexican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "212fa1b4-8853-4fdb-8e0a-2fa72bd1f8d2"
+    },
+    {
+      "start_time": 324,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trinity University San Antonio professor Jorge Gonzalez researches the economic impact of immigration, and the Monterey native sent angry emails to the Mexican treasury."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Eric Roy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexcio"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "b25faf04-8c54-4558-8b5b-5a7d9a2486a1"
+    },
+    {
+      "start_time": 333,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexicans and Mexican-Americans contribute a lot to the Mexican economy. However, they have never flexed the muscle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jorge Gonzalez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Economy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Mexican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "e1d92d34-4a2a-446e-a7b8-250444a0cd4d"
+    },
+    {
+      "start_time": 339,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe this is the first time that they really push, and I'm very glad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jorge Gonzalez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Economy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "tag": "Mexican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "bc9f2d59-abd6-482e-b656-e794e5e47d7c"
+    },
+    {
+      "start_time": 343,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Officially, the car deposit is only on hold, but Gonzalez doubts it will be back. Mexico-bound tourist traffic had dried up along the Texas border but recovered immediately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Eric Roy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexcio"
+        },
+        {
+          "tag": "Tourism Fee",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economics"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Travel",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Southern Border",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "7d6aa92a-c805-455b-b2eb-7df4d42637c0"
+    },
+    {
+      "start_time": 351,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Latino USA, I'm Eric Roy in San Antonio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Eric Roy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "ee473448-1ec5-4642-a83a-309ba5d65255"
+    },
+    {
+      "start_time": 355,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Austin, Texas, I'm David Alvarez. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ddbe9eb8-225e-4b5f-af83-1d599462a747"
+    },
+    {
+      "start_time": 359,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For nearly 60 years, about two-thirds of the small Puerto Rican island of Vieques has been used by the U.S. Navy for combat training with live bombs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "e3ca71bc-e587-420f-985d-974bf55b62a0"
+    },
+    {
+      "start_time": 383,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was until last April, when a security guard on the base, David S‚àö¬∞nes Rodriguez, was killed when a bomb accidentally fell on his checking post."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "David Sanes Rodriguez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "2b99a33d-6dc1-40f2-a22d-056be0a70f76"
+    },
+    {
+      "start_time": 391,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That tragedy sparked protests and tensions between the U.S. government and Puerto Ricans, who have united to demand a halt to all military training on their island."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "David Sanes Rodriguez",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "1bbf9e7e-b872-4487-8a75-6ea400de9f55"
+    },
+    {
+      "start_time": 401,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Enough is enough, and nobody will believe the Navy for anything except leaving Vieques and stop the shooting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unnamed",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "70ba5401-67f5-48e4-9cf4-efcbe54ef6f8"
+    },
+    {
+      "start_time": 409,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think anybody is willing to budge an inch, neither in Vieques nor in Puerto Rico anymore. This is like the Emancipation Proclamation in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unnamed",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Role"
+        }
+      ],
+      "uuid": "ab23a04e-7762-49f3-9af1-770feb7a7523"
+    },
+    {
+      "start_time": 418,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But on December 3rd, in a long-awaited decision, officials at the Pentagon and the U.S. Navy announced they would continue limited training operations on the island of Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "d5bf52d5-55b2-419b-8e16-a60e080e432b"
+    },
+    {
+      "start_time": 428,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do not want to leave Vieques. It is important to us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jay Johnson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Government",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "c735dce9-0068-4c27-a608-660826e5e8dd"
+    },
+    {
+      "start_time": 433,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Admiral Jay Johnson is chief of naval operations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "3de81435-e12d-46a8-b775-2d7a2862b4b9"
+    },
+    {
+      "start_time": 437,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think any of us disagree that Vieques is an irreplaceable asset. In my words, it's the crown jewel of live fire combined arms training. It's the world standard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jay Johnson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Government",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "767fab31-e7d4-4361-9ab8-9f02aaf64423"
+    },
+    {
+      "start_time": 450,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In its announcement, the Navy made some concessions to the people of Vieques. The use of live munitions is being discontinued, unless and until the people of Vieques agree to its resumption. And in five years, the Navy may completely halt their exercises."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "a646a437-059c-417c-b465-df07ed69052d"
+    },
+    {
+      "start_time": 466,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Navy also offered $40 million for economic development on the island."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "56f9f4a0-86b2-4902-b17d-cca16b8227af"
+    },
+    {
+      "start_time": 471,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Navy, the Marines, and the Defense Department have put forth a package that's, I think, a good package that balances readiness with the concerns of the people of Vieques and Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kenneth Bacon",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "f1dbad90-cc7f-4c2f-a55f-dd3a69c28c6b"
+    },
+    {
+      "start_time": 485,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kenneth Bacon is the press secretary for the Department of Defense."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "51e4c003-4ab8-4b4b-8e4c-2d9e4f9d04d0"
+    },
+    {
+      "start_time": 489,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do have to pay the price for maintaining a ready military, and this is an important contribution for Americans in various areas of the United States to make. And I think that the Puerto Ricans have to look at that just as the Navy and the Marines have looked at it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kenneth Bacon",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "142b1455-8262-4d4a-bfac-25c7c5a9a40e"
+    },
+    {
+      "start_time": 504,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But for many Puerto Ricans, the Navy's presence on Vieques has come at too high a cost."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "34ec51cb-6fbc-48e0-b60f-9e852c26993d"
+    },
+    {
+      "start_time": 509,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They blame a high rate of unemployment, the lack of economic development, and environmental damage on Vieques on the Navy's presence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Economy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Environment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "a08e8922-5a96-4e34-864d-61b78febddad"
+    },
+    {
+      "start_time": 517,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even the mayor of Vieques, Manuela Santiago, who describes herself as a pro-military Republican, soundly rejected the Navy's offer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Status",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pro Military"
+        }
+      ],
+      "uuid": "95e1c6d1-ae0d-49a5-bbc2-a607abb84bd0"
+    },
+    {
+      "start_time": 526,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to tell the Navy that we are not selling Vieques. Vieques is for the Viequenses, and we are not selling Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "2e41bf58-8550-4233-9cba-3e548757f900"
+    },
+    {
+      "start_time": 535,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no price. I was offered about $80 million when I went to Washington about eight months ago, and they lowered it to $40 million."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "0bb06e46-6bd8-45e2-8c9b-246427996fc5"
+    },
+    {
+      "start_time": 546,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But no matter if it is $80 million or $40 million, we are not selling Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "852475ef-fdde-434d-83d3-7361480e62e3"
+    },
+    {
+      "start_time": 552,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That sentiment was echoed by Vieques community activist and journalist Mirna Connolly of the Vieques Times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "add6af51-c516-4c2c-a135-a75b9fc28850"
+    },
+    {
+      "start_time": 559,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The $40 million is on a scale. Depending on how much training and live fire you allow, we will let loose the money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mirna Connolly"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "dfa8e2a2-3bc0-4d00-ae0f-46b22c8ee35f"
+    },
+    {
+      "start_time": 572,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you understand? Que el pueblo est‚àö¬∞ indignado con eso. It's such a blackmail, or it's such a corrupt way of trying to deal with the people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mirna Connolly"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Butted Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        },
+        {
+          "tag": "Corruption",
+          "category": "Topics"
+        },
+        {
+          "tag": "Spanish",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "c656b5ac-e274-4054-b540-8c80c8586515"
+    },
+    {
+      "start_time": 583,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We think that the president's statement is unacceptable. First of all, it has no finality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carlos Antonio Romero Barcelo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Butted Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pro Statehood"
+        }
+      ],
+      "uuid": "fc875bfd-4e1a-4a32-8f43-9a8e290b7b74"
+    },
+    {
+      "start_time": 589,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carlos Romero Barcel‚àö‚â• is the resident commissioner of Puerto Rico, the commonwealth's lone voice in Congress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "7dae8ade-b4dd-45a2-ba29-47ff167cce90"
+    },
+    {
+      "start_time": 595,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A member of the pro-statehood party, Romero Barcel‚àö‚â• not only questions the intent, but also the wording of the administration's announcement regarding the future of Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pro Statehood"
+        }
+      ],
+      "uuid": "269cf33e-cad1-4c35-9a0f-78a713f9eaec"
+    },
+    {
+      "start_time": 605,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It includes a statement regarding the fact that the, whatever it says, up to five years, but unless the people of Vieques say otherwise, and using the live ordinance, unless the people of Vieques say otherwise, all it does is opening the doors. And it's probably under the navy's insistence, they still have not accepted that they must go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carlos Antonio Romero Barcelo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pro Statehood"
+        }
+      ],
+      "uuid": "8fdb3838-2212-4ec6-b773-4f7abc586f0b"
+    },
+    {
+      "start_time": 627,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of looking for and establishing a definite alternative, they're still trying to keep hanging on to Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carlos Antonio Romero Barcelo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pro Statehood"
+        }
+      ],
+      "uuid": "249dde8f-212e-43bd-8a49-7862263ec148"
+    },
+    {
+      "start_time": 634,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the way the announcement was worded, says Myrna Connolly, shows the military doesn't completely understand the political reality in Vieques and in Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "b68bca02-78a3-444b-be45-7567b8e22f43"
+    },
+    {
+      "start_time": 645,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who in Vieques are they going to negotiate with? There is not, you know, like a senate and a house of representatives here on the island of Vieques. We're not independent. Who are they going to negotiate with when they say the people of Vieques?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Myrna Connolly",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Negotiation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "10ba8c81-7b7f-491b-a1d2-ec11609ef6f4"
+    },
+    {
+      "start_time": 657,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everything is up in the air. Do you understand? There's nothing definite about that except that they will re-initiate bombings in the spring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Myrna Connolly",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Butted Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Negotiation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Payment",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "1f9059b4-1f89-4666-97a7-a4c46ffb3e8e"
+    },
+    {
+      "start_time": 668,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are committed to rolling up our sleeves and working with the good people of Vieques to ensure that we can continue to use that range. That is the most important part of this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jay Johnson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Butted Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Negotiation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "6d998148-e0ef-4ff5-9bc6-86abd7756cf8"
+    },
+    {
+      "start_time": 677,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Admiral Jay Johnson of the U.S. Navy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "2b39a82d-c9eb-4ccb-8c6c-7f4046d0fe41"
+    },
+    {
+      "start_time": 682,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vieques is important to the United States Navy and the United States Marine Corps. We don't want to lose it and we're willing to work to keep it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jay Johnson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Butted Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Negotiation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "3e4ed6a9-8fb0-4bc6-8fa8-483c1e9a77cf"
+    },
+    {
+      "start_time": 689,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But in Vieques, Mayor Santiago says it's probably too late for the Pentagon to be a good neighbor. She says neither she nor the people of Vieques would tolerate any more bombings, even if this time the ammunition isn't live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "fef17393-507c-4ab8-b061-126b91b5fdfc"
+    },
+    {
+      "start_time": 704,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sixty years of bombing was live bombing, live ordinances. It is too much for us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "23e3da46-62ff-45e9-bca7-5d282c4243b9"
+    },
+    {
+      "start_time": 713,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that other people in the United States should have the same responsibility that we are having with the national security."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "National Security",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "16078fd4-d901-41dd-9d6a-ff0b92e47f6c"
+    },
+    {
+      "start_time": 725,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We love the Navy, but we love also our people that are suffering because we do not have any job, because we do not have any future for our future generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "67da6282-8929-4a18-85a2-875c10eb3f94"
+    },
+    {
+      "start_time": 741,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I have to tell you that the level of cancer--cancer in Vieques is 26.9 percent higher than in Puerto Rico. And we have to think that something in our environment is affecting our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "2e69016b-2d79-4fd7-81d3-7212fe0d6eb7"
+    },
+    {
+      "start_time": 766,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vieques Mayor Manuela Santiago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 1",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Manuela Santiago",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "17ead8c7-9e1b-459f-ab46-2ecd0fa07a66"
+    },
+    {
+      "start_time": 768,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[musical transition]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Transition",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "67a0ecf5-0891-4008-ae8f-270e2f61920b"
+    },
+    {
+      "start_time": 770,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And joining us now from the studios of radio station Noti Uno in San Juan, Puerto Rico is political analyst Juan Manuel Garcia Passalacqua. Bienvenido, Juan Manuel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Transition",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        }
+      ],
+      "uuid": "ab3f5d99-4481-4106-88f8-a99cf989010b"
+    },
+    {
+      "start_time": 794,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a pleasure as always to be with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        }
+      ],
+      "uuid": "9e92a270-740a-4886-81fd-7ee0a4204e94"
+    },
+    {
+      "start_time": 795,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juan Manuel, regarding the decision that was announced on December 3rd that in five years the Navy will completely halt their combat training exercises and that the use of live munitions is being discontinued, why--why is there such a strong reaction against this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Generalization",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "b202079b-1eff-49cc-880b-64f7f1d2193e"
+    },
+    {
+      "start_time": 812,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the decision is totally unacceptable to all sectors in Puerto Rico. The government, the political parties, the churches, and the civil society, including of course the Vieques fishermen themselves. So the problem with the decision is that it's worthless."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "bbabae18-43b8-4513-b530-750b7b9eeb31"
+    },
+    {
+      "start_time": 834,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This seems to be the first issue on which so many segments of the Puerto Rican society have been in agreement and united in a very long time. It doesn't matter if you are for independence or if you support statehood from, as you said, Governor Rossell‚àö‚â• to the Vieques fishermen. Why is there such a consensus on this issue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Consensus"
+        }
+      ],
+      "uuid": "5b89b209-3749-4274-8be1-41e8ba0de725"
+    },
+    {
+      "start_time": 857,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is, Maria, the result of ten years of congressional debate and indecision on what to offer the Puerto Rican people. The Congress of the United States has been deliberating for ten years and has failed twice in the U.S. Senate in offering anything but colonialism to Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "83f47808-ceea-4dae-b946-68f0ef1f4c6c"
+    },
+    {
+      "start_time": 878,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that failure, of course, has created such a resentment in all sectors of Puerto Rican society that it exploded with the Vieques issue. Vieques is merely a symptom of an emerging Puerto Rican nationalism against American indecision on the future of Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "Nationalism",
+          "category": "Topics"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Opposition"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "a3925dfc-9189-4c82-9842-6e44ca0bf20b"
+    },
+    {
+      "start_time": 899,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about what the military says? That Vieques is important, that the kind of training that can happen on Vieques can only happen on Vieques, and that it's important for the military readiness of this country?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "fc6af005-432e-46fc-9dd7-5773554b1bfb"
+    },
+    {
+      "start_time": 915,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the military may be absolutely right as far as American national security is concerned. That doesn't have anything to do with the people of Vieques. The people of Vieques are telling the President of the United States, no, go somewhere else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "National Security",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Opposition"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "cfbf459c-75c0-496b-b872-6e1a331fc2ca"
+    },
+    {
+      "start_time": 933,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as a matter of fact, they are bombing Scotland these days and Sardinia, so they can do it somewhere else. It's just a ploy from the Navy to keep Puerto Rico as a colony of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Opposition"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "cb785e29-4bff-4e3b-806f-d61f134c8321"
+    },
+    {
+      "start_time": 946,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But one could say that the administration made extra efforts to try to alleviate tensions with the Puerto Rican people and to recognize that fences need to be mended."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "tag": "Economy",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mediation"
+        }
+      ],
+      "uuid": "a5a8612c-e033-49c1-9034-65ccc619b201"
+    },
+    {
+      "start_time": 956,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For instance, the Eisenhower battle group is not training in December as was scheduled, and 40 million dollars is being offered for economic development in Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Military Training",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mediation"
+        }
+      ],
+      "uuid": "254c9663-1b10-45bf-a346-d749d75c7e0a"
+    },
+    {
+      "start_time": 967,
+      "end_time": 989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Eisenhower group is not training in Vieques because they were 60 people in six different camps on the beaches and they would have had to blow them to pieces, and 3,000 people in lists officially sign, waiting to take their place in the beaches if they were arrested. That's why the Eisenhower group is not training in Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Protests"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Opposition"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "39811667-ee50-42e2-86d3-52efa1550fd4"
+    },
+    {
+      "start_time": 990,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you're saying that the administration actually was buying time to prevent an even more explosive situation in Vieques?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mediation"
+        }
+      ],
+      "uuid": "a4d326a2-fa0b-44d6-a9a3-d37225eaa890"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have no doubt whatsoever, after numerous contacts with the White House during all these months, as a political analyst in Puerto Rico, that the White House was convinced we were heading towards American's Tiananmen and that they did not want to do that to please the Pentagon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Clinton Administration",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Opposition"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "8679e764-fdcb-4012-8d72-4ad576829720"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So if Vieques is just a symbol of a resistance to the United States refusing to deal with Puerto Rico's colonial status, what do you see happening on other fronts in relation to the U.S.-Puerto Rico connection?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Question",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Resistance",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mediation"
+        }
+      ],
+      "uuid": "c36adfeb-ecae-4378-a756-5ef4c98df6e6"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Vieques being a symptom of frustration and a symbol of resistance, the whole Vieques issue will become, and is becoming, now a confrontation, a direct confrontation, between the United States of America and Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Confrontation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Relations"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "2bf2e01c-8153-4507-b34a-72d566a2fa17"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that confrontation that is happening right now in front of those gates, and unfortunately it's not being covered by anybody in the United States, and it's now in its second day, signifies a message."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Confrontation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Relations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Media Coverage"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "bf13837e-d1f2-478a-979d-83320055ac71"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Congress of the United States must get off its butt and face the issue of what to do with Puerto Rico. That's what this message is all about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Juan Manuel Garcia Passalacqua"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Political Analyst",
+          "category": "Role"
+        },
+        {
+          "tag": "Congress",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Relations"
+        },
+        {
+          "tag": "Answer",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "5a3534ce-0177-48c9-94b7-a4495913fbd9"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much. Juan Manuel Garcia Passalacqua is a political analyst based in San Juan, Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 2",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Interview",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Thank you"
+        }
+      ],
+      "uuid": "8edf1395-bdf0-4372-a1f9-71cdbead19c8"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Rican communities on the mainland are also unhappy regarding the administration's decision to continue military training on the island of Vieques. This report from Mario Murillo in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Transition",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "582a457f-9d65-4f23-b6e7-ce98b3d95fb6"
+    },
+    {
+      "start_time": 1104,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "U.S. Navy, out of Vieques! U.S. Navy, out of Vieques! U.S. Navy, out of Vieques!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Other",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "ba405f90-7a18-4fe2-82d2-4e61cd2504ab"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About 200 members of various Puerto Rican community organizations and Vieques support groups in New York gathered outside the federal building in lower Manhattan on December 7th to decry the president's Vieques plan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "32138dbf-4581-4b00-aa57-2b178f0aec02"
+    },
+    {
+      "start_time": 1124,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the anniversary of the bombing of Pearl Harbor as their rallying point, organizers described the naval bombardment of Vieques as 60 years of infamy for the Puerto Rican people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "World War II"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pearl Harbor"
+        }
+      ],
+      "uuid": "d9dbf815-0394-44b9-bb95-d3b7e7b9d202"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New York City Councilmember Jose Rivera is one of many Puerto Rican elected officials participating in the latest series of protests against the Navy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Other",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "8e6498c4-bf6d-41e5-a046-0052c37e6fb2"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today is a day that we remember those who lost their life as a result of the second war, December 7, 1941, the bombing of Pearl Harbor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jose Rivera",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "World War II"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pearl Harbor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Death"
+        }
+      ],
+      "uuid": "1f946311-c634-4d79-8642-3c85e7e6c9ef"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we--sadly to say, 58 years have gone by. There's another place that has been a victim of bombing, and that's the tiny island by the name of Vieques in Puerto Rico, whose for over 58 years have been used as a Navy target practice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jose Rivera",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "d11bfcab-252a-4aae-9789-2cd1ca7c386a"
+    },
+    {
+      "start_time": 1174,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and other protests around the country were called in direct response to the president's plan, announced on December 3rd."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "6a5d5d02-5885-41b8-8b9e-74f7460bd3e6"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the plan, Navy and Marine personnel will train this month at locations along the East Coast and in Scotland instead of Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "71b5e80f-065c-4a55-9c44-8a7238ca7be4"
+    },
+    {
+      "start_time": 1188,
+      "end_time": 1201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, Navy officials say they hope to return to the island next spring. Cruz Fontanez Garcia is vice president of the Puerto Rican Independence Party's New York office. He says they'll continue protesting despite what he calls a partial victory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "c0517ed3-c50f-4540-a8ca-13c3fefe379f"
+    },
+    {
+      "start_time": 1201,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our position is that we're going to keep our civil disobedience and also try to reinforce it, because this is a victory for the people of Vieques and also Puerto Rico. It was the civil disobedience that halted the battleship Eisnhower from training in Vieques this past December."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Fontanez Garcia",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Prostest"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Disobedience"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "949af156-db6e-4f43-9d18-07ed54bb5db9"
+    },
+    {
+      "start_time": 1216,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're going to stay there until they leave or until they arrest us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Fontanez Garcia",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Prostest"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Disobedience"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vieques Island",
+          "category": "Topics"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "64def760-f1a2-4a99-8cdc-ce74d36a5ced"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Activists in New York are supporting the civil disobedience protesters on Vieques with similar actions throughout the city. Ben Ramos of the New York Vieques Support Campaign credits this for why the Navy at least temporarily changed its course on the island."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "3bb2c98d-b44d-46b5-8ac4-3a783214775f"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to think that it's a partial victory simply because it's the first time in history that a Navy battleship has had to turn away and that the people were there were stronger than 20,000 tons of steel and metal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ben Ramos",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Victory"
+        }
+      ],
+      "uuid": "e36f6e33-3d5c-4bb0-828b-f340d6cb8a94"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a victory, but it's not the final victory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ben Ramos",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Occupation",
+          "category": "Topics"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Victory"
+        }
+      ],
+      "uuid": "78603e70-ef13-4218-81e0-4dd579da1611"
+    },
+    {
+      "start_time": 1247,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Navy is committed to returning to Vieques in March, as they put it, once the timing is right, perhaps meaning once the protests die down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "391d1020-1402-4726-8beb-f89c2dae4079"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But with the civil disobedience encampment being fortified on Vieques with new protesters and New York activists planning to take the issue to the United Nations later this month, it doesn't seem like that will happen anytime soon. For Latino USA, I'm Mario Murillo in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Murillo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Segment 3",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Protest",
+          "category": "Topics"
+        },
+        {
+          "tag": "Puerto Rican Diaspora",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Navy",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Disobedience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        }
+      ],
+      "uuid": "9e9dcf82-7a6d-4ad9-bf93-fc59b1db6452"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[musical transition]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Transition",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "c0e5942f-0025-4332-8205-e63080b4ede4"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Panama, as in the world over, the end of 1999 will be a time for celebration. But Panamanians will have many more reasons to celebrate, from year 2000 festivities to the excitement over the Panama Canal being turned over to Panamanian control."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Panama Canal"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "e9915a5a-b281-4f1f-b586-d47a01681617"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But on December 20th, these festivities will come to a halt, as Panamanians remember the events of 10 years ago, the unexpected U.S. military invasion known as Operation Just Cause, and its victims."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Panama Canal"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "a2715808-9a47-4654-adf5-85db44575491"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the El Chorillo neighborhood of Panama City, Rolando Arrieta reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "Story Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Archival Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "6cf745f8-f277-4056-989b-7fbb50bf380f"
+    },
+    {
+      "start_time": 1338,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Midnight, December 20th, 1989, a U.S. military alert message flashed repeatedly across the television screens nationwide. It warned people to stay in their homes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Other",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "65384732-2fc1-4631-8223-1f3d054c5c29"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "26,000 U.S. troops sent by President Bush landed on the Isthmus, the mission to capture Panamanian dictator Manuel Antonio Noriega, to disable the Panamanian Defense Force and to restore democracy in Panama."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dictatorship"
+        },
+        {
+          "tag": "Bush Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Manuel Antonio Noriega",
+          "category": "Topics"
+        },
+        {
+          "tag": "Archival Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "252dcdee-8885-4bfc-b731-cdc599a25515"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The PDF, Panamanian Defense Force Headquarters, was located in the heart of El Chorillo, one of Panama's poorest neighborhoods. Elena Thompson and her next door neighbor Selena live in El Chorillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Other",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Archival Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panamanian Defense Force",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "5338adc4-6954-481b-ac4d-abf2cd80dd5c"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They remember waking up to the sudden sound of explosions and the echo of bullets ricocheting as her apartment building trembled in the middle of the night. They lived one block from where Noriega supposedly was hiding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Archival Sound",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "6c57a364-e8a1-48da-8847-b2653315e6b3"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said \"Selena, we have to get out of here because they're going to kill us inside here!\" And standing here you see the, you naturally see the fire come out of the building. Push! Ba-dum ba-dum!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anectdote"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "715c324d-943f-4b22-bdac-1e855dcf8974"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All we could do was pray and hope that we didn't die! And every time you hear, ba-um the building shake. The building shake. And then after a while, we tried to get out of here and then we couldn't move."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anectdote"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "b6220cfa-724f-4ccb-8a00-6494c786ab28"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A tank was on that side, ready to blow away the building. The people inside here had to start bawling and say, please, please, people in here don't blow down the building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anectdote"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "tag": "Nat Sound",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "4b0cd1a0-d212-4d08-bcba-0779b92e6fb2"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The actual war in El Chorillo between U.S. soldiers and members of the Panamanian Defense Force lasted no more than six hours. General Carl Steiner was one of the key military officers in charge of the mission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panamanian Defense Force",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "02de9716-9cc9-405c-a3b4-2776931a4c29"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We took unusual measures in limiting the amount of force that we would apply in order to accomplish this mission in order to minimize, absolutely minimize casualties and collateral damage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carl Stiner",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "5691d33c-6dac-467f-acca-ef96bba672a7"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were extensive damages in El Chorillo. Rows of houses near the PDF headquarters were caught in the crossfire. According to the Pentagon, 23 American soldiers and over 350 Panamanians died."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Bush Administration",
+          "category": "Topics"
+        },
+        {
+          "tag": "Data",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Casualties",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "44586b34-115d-4057-95c8-bb110e4172ba"
+    },
+    {
+      "start_time": 1474,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other official sources in Panama counted four times as many Panamanian fatalities. At the time, the U.S. attack on Noriega was the largest military operation since Vietnam."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Vietnam",
+          "category": "Topics"
+        },
+        {
+          "tag": "Data",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Manuel Antonio Noriega",
+          "category": "Topics"
+        },
+        {
+          "tag": "Casualties",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "12bcd7ef-8996-4d02-b44b-9973ca2e5b74"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anel Bellis was the press secretary for the political party opposing General Noriega. He was one of the many Panamanians who supported the U.S. intervention to oust the dictator but did not expect it to come in form of an invasion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Manuel Antonio Noriega",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Intervention",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "US Invasion"
+        }
+      ],
+      "uuid": "c61eab07-520c-4734-8ae2-15272bbe5fa6"
+    },
+    {
+      "start_time": 1499,
+      "end_time": 1520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that the U.S. had many options to kidnap Noriega, threaten him, and I don't know why there was an invasion. That was a surprise because Noriega wasn't that strong. For us, with the weapon he had, he was strong. But for the U.S. he was not strong."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anel Beliz",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Historical Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Intervention",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "US Invasion"
+        }
+      ],
+      "uuid": "2b617255-1afb-43ed-8c6d-ccb9f5fb1a5f"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On an issue like this, even the opposite end of the political spectrum find common ground. Mario Rognoni, director of the PRD, the political party that supported Noriega, also feels that the invasion was unjust."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Democratic Revolutionary Party",
+          "category": "Affiliations"
+        },
+        {
+          "tag": "Manuel Antonio Noriega",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Unjust",
+          "category": "Affiliations"
+        }
+      ],
+      "uuid": "acf2b6ea-1954-43f1-8ce3-4a464b5e4e30"
+    },
+    {
+      "start_time": 1534,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Operation Just Cause has to be the biggest failure that the American armed forces have had in their history because the objective of Just Cause was to seize Noriega. I can't believe that they were so clumsy as not to be able to grab him even before the first bomb was launched."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mario Rognoni",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Intervention",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "US Invasion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Failure"
+        },
+        {
+          "tag": "Manuel Antonio Noriega",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "381a6a80-17db-48f8-b5b8-50ed4711d236"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noriega was finally found and arrested 10 days later. General Steiner admits the long delay was not in the original plan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panamanian Defense Force",
+          "category": "Topics"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "57dcfc96-7544-4642-9fa6-3897715f7f36"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our intelligence was not that good to be able to track him to where we could grab him within the first two or three hours. But I think the mission was a great success. It was a just cause. Our in-state objective was to give the people back their freedom and install the government that they had elected back in May of 89."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carl Stiner",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Interests",
+          "category": "Affiliations"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Success"
+        },
+        {
+          "tag": "War",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "59ed1974-c5e9-487b-a4e7-d726f939f4bb"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Residents of El Chorillo, like Elena Thompson, have a different point of view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "US Invasion"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "fa025319-14bb-4767-96ed-c68a60171342"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't say it's a Just Cause because I didn't ask nobody to come and bomb me up so I could have died. And then if I had died, they would say I died for a Just Cause. No way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        }
+      ],
+      "uuid": "b0fca2df-a750-4a67-9f53-39cb2c723b39"
+    },
+    {
+      "start_time": 1595,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Panama, there is now a democratic government and the economy is booming. But residents of El Chorillo say they are left out of this new Panama. They feel that they are the forgotten victims of the invasion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impact"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "02413941-3597-4e04-8788-d774125ee1fe"
+    },
+    {
+      "start_time": 1607,
+      "end_time": 1619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The restored housing has disappointed many residents. The cramped cinder block apartments are windowless, making them unbearably hot under the sweltering tropical climate. And poor plumbing has caused health problems for the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impact"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "67305974-c0b8-42e0-a0ce-e4265c3ee4d7"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elena Thompson lives in a building that survived the attack, but she worries that it is structurally unsafe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Paraphrase",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impact"
+        },
+        {
+          "tag": "Speaker Introduction",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "cde72a45-4101-46b7-8006-353ade7447f9"
+    },
+    {
+      "start_time": 1625,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anything passed by, you feel the vibration. The only thing I have left there is a bullet hole on the wall there. Outside there is a big hole. The coal went up with cement and a big hole was in the step. All outside there have cracks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elena Thompson",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Sound Bite",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Reaction",
+          "category": "Interview Makeup"
+        },
+        {
+          "tag": "US Military Invasion",
+          "category": "Topics"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Panama",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impact"
+        }
+      ],
+      "uuid": "c18fc9d1-32ec-4e37-b656-1730c69d9077"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the past ten years, many Chorillo residents like Elena have paused on December 20th to reflect. This year, the U.S. soldiers that attacked their neighborhood are leaving Panama for good. For Latino USA, I'm Rolando Arrieta in Panama."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rolando Arrieta",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segment 4"
+        },
+        {
+          "tag": "Reporter Story",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "El Chorillo",
+          "category": "Topics"
+        },
+        {
+          "tag": "Operation Just Cause",
+          "category": "Topics"
+        },
+        {
+          "tag": "US Military",
+          "category": "Topics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impact"
+        },
+        {
+          "tag": "Context",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "488d520a-470b-4763-9e33-0f33a8793944"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Gracias por su atenci‚àö‚â•n. Thanks for listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Spanish",
+          "category": "Interview Makeup"
+        }
+      ],
+      "uuid": "c5619afb-edc7-49a9-b791-99b90fab0dd4"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further information about Latino USA is available at www.latinousa.org. You can also call our listener comment line at 1-800-535-5533."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "38e5cdf1-a9cb-4da7-80c6-9b18c475e234"
+    },
+    {
+      "start_time": 1688,
+      "end_time": 1694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our email address is LUSA at NPR dot org. And this week's program is number 348."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "3fa1666a-cc54-4488-a2e3-fa98183454dc"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino USA is produced by Angelica Luwano, Walter Morgan, and Alex Zavilla. I'm the executive producer, Maria Martin. Our contributing editor is Katie Davis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "c28a995c-2ec4-4157-b5f7-789849f0e4ad"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had help this week from WOSO in San Juan and Tiana Velasquez. Support for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the Center for Mexican American Studies and KUT Radio at the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "2918fdc1-c5e2-4d3f-be1c-c96f2b1d0b9c"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Additional support from the National Endowment for the Arts and National Public Radio, whose contributors include the John D. and Catherine T. MacArthur Foundation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "7e87c86a-5d3f-41d2-8355-7d273b6bd321"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maria Hinojosa will be back next week. Join us then for another edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "a6844b9c-1d48-4fef-a907-a89a25502229"
+    },
+    {
+      "start_time": 1735,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unnamed",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Credits",
+          "category": "Editorial Decisions"
+        },
+        {
+          "tag": "Goodbye",
+          "category": "Editorial Decisions"
+        }
+      ],
+      "uuid": "13d78651-2424-41b7-8809-a0cb7ef9327d"
+    }
+  ],
   "set": "Default",
   "event_id": "174b38e5-5741-4e1f-a724-79ab49dbf35d",
   "source_id": "87f9e5bc-64de-460e-8904-0fbf76eb0c51"
